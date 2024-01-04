@@ -15,6 +15,7 @@ A short quiz where the user can find out which BTS album they should listen to b
 
 
 ## Takeaways
+This was one of my most fun projects since I love BTS and PHP was a completely new language to me, but it turned out to be very easy to use! I was excited to be able to do fun things with it. One of my favorite features that I implemented is being able to see the percentage for each result of the quiz. 
 
 <p align="center">
   <i>Visit my site <a href="https://i6.cims.nyu.edu/~sb8249/webdev/assignment07/quiz.php">HERE</a></i>
